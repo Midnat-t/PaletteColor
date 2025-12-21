@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Color Palette</string>
+    
+    <!-- Main Screen -->
+    <string name="app_title">Color Palette Extractor</string>
+    <string name="feedback_button">Send Feedback</string>
+    
+    <!-- Initial Screen -->
+    <string name="initial_title">Extract Color Palette</string>
+    <string name="initial_description">Select an image from your gallery to extract its dominant colors and get their hex codes</string>
+    <string name="select_image_button">Select Image</string>
+    <string name="features_title">Features:</string>
+    <string name="feature_1">Extract vibrant and muted colors</string>
+    <string name="feature_2">Get hex codes for each color</string>
+    <string name="feature_3">Copy colors to clipboard</string>
+    <string name="feature_4">See color popularity</string>
+    
+    <!-- Loading Screen -->
+    <string name="loading_message">Extracting colors…</string>
+    
+    <!-- Success Screen -->
+    <string name="select_new_image_button">Select Another Image</string>
+    <string name="extracted_colors_title">Extracted Colors (%1$d)</string>
+    <string name="selected_image_description">Selected Image</string>
+    <string name="copy_hex_description">Copy hex code</string>
+    <string name="copied_to_clipboard">Copied %1$s to clipboard</string>
+    <string name="population_label">Population: %1$d</string>
+    
+    <!-- Error Screen -->
+    <string name="error_title">Oops! Something went wrong</string>
+    <string name="try_again_button">Try Again</string>
+    
+    <!-- Feedback Dialog -->
+    <string name="feedback_title">Send Feedback</string>
+    <string name="feedback_rating_question">How would you rate this app?</string>
+    <string name="feedback_comment_label">Additional comments (optional):</string>
+    <string name="feedback_comment_hint">Share your thoughts…</string>
+    <string name="feedback_submit">Submit</string>
+    <string name="feedback_cancel">Cancel</string>
+    <string name="feedback_thanks">Thank you for your feedback! Rating: %1$d</string>
+    <string name="star_description">Star %1$d</string>
+    
+    <!-- Permissions -->
+    <string name="permission_denied">Permission denied. Cannot access images.</string>
+    
+    <!-- Errors -->
+    <string name="error_no_colors">Could not extract colors from the image</string>
+    <string name="error_unknown">Unknown error occurred</string>
+    
+    <!-- Color Types -->
+    <string name="color_vibrant">Vibrant</string>
+    <string name="color_light_vibrant">Light Vibrant</string>
+    <string name="color_dark_vibrant">Dark Vibrant</string>
+    <string name="color_muted">Muted</string>
+    <string name="color_light_muted">Light Muted</string>
+    <string name="color_dark_muted">Dark Muted</string>
+    <string name="color_dominant">Dominant</string>
+    
+    <!-- Content Descriptions -->
+    <string name="image_icon_description">Image icon</string>
+    <string name="error_icon_description">Error icon</string>
+    <string name="refresh_icon_description">Refresh icon</string>
+    <string name="photo_library_icon_description">Photo library icon</string>
+    <string name="check_icon_description">Check icon</string>
+</resources>
