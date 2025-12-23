@@ -1,4 +1,4 @@
-https://disk.yandex.ru/i/LT6UjzZa8C8p7g - видео для просмотра работы приложения.
+https://disk.yandex.ru/i/4jxOO4rxFnOvTQ - видео для просмотра работы приложения.
 # Color Palette Extractor
 
 Приложение для Android, которое извлекает цветовую палитру из изображений и предоставляет hex-коды доминирующих цветов.
