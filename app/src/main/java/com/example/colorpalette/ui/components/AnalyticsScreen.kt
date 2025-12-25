@@ -403,17 +403,7 @@ private fun EmptyDataInfoCard() {
                 fontWeight = FontWeight.Bold,
                 color = MaterialTheme.colorScheme.onTertiaryContainer
             )
-            Spacer(modifier = Modifier.height(8.dp))
-            
-            Column(
-                verticalArrangement = Arrangement.spacedBy(4.dp)
-            ) {
-                MetricInfoRow("🚀", "App starts & session duration tracked automatically")
-                MetricInfoRow("🎨", "Each image color extraction is recorded")
-                MetricInfoRow("⭐", "User feedback collected via feedback button")
-                MetricInfoRow("❌", "Errors & crashes logged for quality monitoring")
-            }
-            
+        
             Spacer(modifier = Modifier.height(12.dp))
             
             Text(
