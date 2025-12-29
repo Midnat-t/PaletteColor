@@ -461,13 +461,7 @@ graph TB
     AnalyticsDatabase --> AnalyticsDao
     AnalyticsDao --> RoomDB
     
-    style MainActivity fill:#E3F2FD
-    style ColorPaletteScreen fill:#E3F2FD
-    style AnalyticsScreen fill:#E3F2FD
-    style ColorPaletteViewModel fill:#C8E6C9
-    style AppMonitor fill:#FFE0B2
-    style ColorPaletteExtractor fill:#FFE0B2
-    style RoomDB fill:#FFCCBC
+
 ```
 
 ## Просмотр диаграмм
